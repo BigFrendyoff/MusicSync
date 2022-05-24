@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/session_image"
+        android:layout_width="72dp"
+        android:layout_height="89dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_delete" />
+
+    <TextView
+        android:id="@+id/session_name"
+        android:layout_width="224dp"
+        android:layout_height="39dp"
+        android:layout_marginStart="4dp"
+        android:text="TextView"
+        android:textAlignment="viewStart"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/session_image"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/sync_btn"
+        android:layout_width="44dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="100dp"
+        android:backgroundTint="@color/white"
+        android:clickable="true"
+        app:borderWidth="0dp"
+        app:fabCustomSize="42.5dp"
+        app:fabSize="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/session_name"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.574"
+        app:rippleColor="@color/black"
+        app:srcCompat="@android:drawable/ic_popup_sync" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

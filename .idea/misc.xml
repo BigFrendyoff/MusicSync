@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/drawable/ic_baseline_play_arrow_12.xml" value="0.132" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.2" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1125" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1125" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1345" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/drawable/ic_launcher_logo_headphones_foreground.xml" value="0.132" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.124" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/activity_firebase_ui.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/fragment_connection_frame.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/fragment_dashboard.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/fragment_music.xml" value="0.4" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/fragment_notifications.xml" value="0.264" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/fragment_search.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/fragment_sessions.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/fragment_sign_in.xml" value="0.1546875" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/fragment_signin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/fragment_user_search.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/media_element.xml" value="0.536" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/layout/tool_bar.xml" value="0.1" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/menu/bottom_nav_menu.xml" value="0.152" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/menu/friend_list_menu.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/menu/sessions_menu.xml" value="0.1" />
+        <entry key="..\:/Users/BigFrendy/AndroidStudioProjects/MusicSyncFinal/app/src/main/res/xml/provider_paths.xml" value="0.12291666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

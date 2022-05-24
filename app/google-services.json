@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "667027212546",
+    "project_id": "musicsyncfinal-1651651889018",
+    "storage_bucket": "musicsyncfinal-1651651889018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667027212546:android:2a92d320cab78249131a1b",
+        "android_client_info": {
+          "package_name": "com.example.musicsyncfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667027212546-i2s85i1p4fjcppq6q7ssr31gkvoaqr1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicsyncfinal",
+            "certificate_hash": "4418a79b0e963363fff208180d95d04215c3d312"
+          }
+        },
+        {
+          "client_id": "667027212546-2j4eds8sj4p94le1uhmhsv75mim47pn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBErs9PYyYMWhatJMv6GxE_fEgT16Z6rmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667027212546-2j4eds8sj4p94le1uhmhsv75mim47pn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

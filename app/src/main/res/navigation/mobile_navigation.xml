@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_connection">
+
+    <fragment
+        android:id="@+id/navigation_connection"
+        android:name="com.example.musicsyncfinal.ui.notifications.ConnectionFrameFragment"
+        android:label="@string/connections"
+        tools:layout="@layout/fragment_connection_frame" />
+
+    <fragment
+        android:id="@+id/navigation_session"
+        android:name="com.example.musicsyncfinal.ui.home.SessionsFragment"
+        android:label="@string/sessions_label"
+        tools:layout="@layout/fragment_sessions" />
+
+    <fragment
+        android:id="@+id/navigation_music"
+        android:name="com.example.musicsyncfinal.ui.dashboard.MusicFragment"
+        android:label="@string/music"
+        tools:layout="@layout/fragment_music" />
+
+
+</navigation>

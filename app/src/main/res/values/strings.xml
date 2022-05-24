@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicSync</string>
+    <string name="sessions_label">Сессии</string>
+    <string name="connection">Соединение</string>
+    <string name="connections">Соединения</string>
+    <string name="sessions">Сессии</string>
+    <string name="music">Музыка</string>
+</resources>
